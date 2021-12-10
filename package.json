@@ -1,6 +1,14 @@
 {
   "name": "vue-auth",
   "version": "0.1.0",
+  "description": "Authentication using vue js on frontend and appetiser api",
+  "author": "Steven Gragg",
+  "main": "main.js",
+  "keywords": [
+    "vue",
+    "vuejs"
+  ],
+  "license": "MIT",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
